@@ -1,9 +1,13 @@
 _repo: Tuhat-ja-yksi-yota_50754
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hedman, Valfrid
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50754#Tuhat-ja-yksi-yota
 gutenberg_issued: '2015-12-23'
 gutenberg_type: Text
 identifiers:
